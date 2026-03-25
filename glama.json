@@ -1,0 +1,1 @@
+{"name": "DORAOracle", "description": "DORA ICT risk & threat intelligence \u2014 15 MCP tools for CVE, KEV, CERT-Bund, MITRE ATT&CK", "category": "compliance", "tags": ["dora", "cve", "threat-intel", "compliance"], "tools": 15, "transport": "streamable-http", "endpoint": "https://tooloracle.io/dora/mcp/"}
