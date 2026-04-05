@@ -1,0 +1,5 @@
+name: DORAOracle
+description: DORA Threat Intelligence — CVE, CERT-Bund, MITRE — 15 tools
+endpoint: https://tooloracle.io/dorathreat/mcp/
+transport: streamable-http
+license: MIT
